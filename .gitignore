@@ -7,4 +7,4 @@ composer.lock
 vendor/
 
 # Test resources
-test/uploads/*
+test/uploads/*.*
