@@ -104,7 +104,7 @@ $ git clone https://github.com/rainner/restful-php.git
 require( './libs/restful-php/autoloader.php' )
 ````
 
-**Composer:** Use Composer to automatically intall this package for you from packagist. Run the following composer commands to and this package and install the dependency:
+**Composer:** Run the following composer commands to include this package and install the dependency for your project:
 
 ````php
 $ composer require rainner/restful-php
