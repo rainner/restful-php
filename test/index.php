@@ -1,6 +1,6 @@
 <?php
 /**
- * Preview uploaded file data
+ * Script for testing and previewing formatted request data.
  */
 error_reporting( -1 );
 ini_set( 'display_errors', 1 );
@@ -23,7 +23,7 @@ if( $_SERVER['REQUEST_METHOD'] !== 'GET' )
     $task    = isset( $_REQUEST['scriptTask'] ) ? $_REQUEST['scriptTask'] : '';
     $output  = '';
 
-    // show the new formatted FILES array
+    // show the new formatted request data
     if( $task === 'show' )
     {
         $output  = "REQUEST-DATA: \n\n";
