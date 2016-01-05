@@ -1,0 +1,10 @@
+# Documentation
+docs/
+phpunit.phar
+
+# Composer
+composer.lock
+vendor/
+
+# Test resources
+test/uploads/*
