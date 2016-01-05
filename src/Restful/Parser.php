@@ -45,7 +45,7 @@ class Parser {
     }
 
     /**
-     * Resolve request method
+     * Resolve request method verb
      * @return null
      */
     public function resolveMethod()
