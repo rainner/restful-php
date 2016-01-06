@@ -3,7 +3,6 @@
     "description": "Parses the raw input body for all RESTful verbs (POST, PUT, DELETE, PATCH, etc.) and provides a better way for working with uploaded files.",
     "type": "library",
     "license": "MIT",
-	"version": "1.0.0",
 	"keywords": ["php", "http", "upload", "files", "data", "restful", "input", "stream"],
     "authors": [
         {
