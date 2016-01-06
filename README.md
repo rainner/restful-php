@@ -107,8 +107,7 @@ require( './libs/restful-php/autoloader.php' )
 **Composer:** Run the following composer commands to include this package and install the dependency for your project:
 
 ````php
-$ composer require rainner/restful-php
-$ composer install
+$ composer require rainner/restful-php 1.*
 ````
 
 ### Author
